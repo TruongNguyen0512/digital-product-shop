@@ -1,4 +1,4 @@
-
+```mermaid
 flowchart TD
     A[User Registration] --> B{Verification}
     B --> |Verified| C[Create Profile]
