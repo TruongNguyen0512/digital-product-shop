@@ -1,4 +1,4 @@
-%%{init: {'theme': 'neutral'}}%%
+
 flowchart TB
     subgraph "Client Layer"
         A[Web Client] <--> B[Mobile Client]
